@@ -1,0 +1,120 @@
+body {
+	font-family: 'Playfair Display', serif;
+	color: #92B6F0;
+	margin: zero;
+}
+
+header {
+	background:url(../images/dark_embroidery.png);;
+	color: #92B6F0;
+	text-align: center;
+	background-attachment: fixed;
+	background-size: cover; 
+}
+
+h2 {
+	background: transparent;
+
+}
+
+a {
+	color: lightblue;
+}
+
+
+#about {
+	background: white;
+}
+
+.about {
+	background: white;
+}
+
+img {
+	border: solid 6px black;
+}
+
+header img {
+	border: 6px white;
+	padding: 10px;
+}
+
+h1 {
+	font-size: 60px;
+	color: white;
+
+}
+
+ul {
+	background:#313136;
+}
+
+ol {
+	background:#313136;
+}
+
+.links h2 {
+	color: #92B6F0;
+}
+
+.padded {
+	padding: 30px 50px;
+}
+
+.contact {
+	text-align: center;
+	background: url(../images/dark_embroidery.png);
+
+}
+
+.contact h2 {
+	color: #ffffff;
+}
+
+.contact img {
+	border: none;
+	width: 100px;
+	margin: 10px;
+	height: auto;
+	border-radius: 50px;
+}
+
+.contact img:hover {
+	opacity: .8;
+	border-radius: 40%;
+}
+
+
+.websites {
+	padding: 0;
+}
+
+.websites li {
+	list-style: none;
+	display: inline-block;
+	background: white;
+}
+
+.websites a {
+	background: black ;
+	color: white;
+	text-decoration: none;
+	padding: 10px 20px;
+	border-radius: 5px;
+	font-size: 30px;
+}
+
+
+.websites a:hover {
+	background: black;
+}
+
+li {
+	background: white;
+
+}
+
+
+
+
+
